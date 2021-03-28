@@ -1,0 +1,4 @@
+baseURL = "https://nathanmartin.fr/"
+languageCode = "en-us"
+title = "My title"
+theme = "ananke"
